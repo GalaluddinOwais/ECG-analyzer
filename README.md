@@ -1,8 +1,8 @@
 # About the project
-#### This project aims to analyze an ECG signal given in .mat format, as it detects and marks the peaks (the R peaks in QRS complex) of the heart pumps to calculate the heart rate and to check for Bigeminy and Premature Ventricular Contraction (PVC) diseases, showing the level of confidence with which it provided the results
+####
+This project aims to analyze an ECG signal provided in .mat format. It detects and marks the peaks (the R peaks in the QRS complex) to calculate the heart rate. Additionally, it checks for the presence of Bigeminy and Premature Ventricular Contraction (PVC) diseases, and displays the level of confidence with the provided results
 
 # Key Achievements
-
 * Designed a GUI to get the ECG signals uploaded and visualize them
 * Provided calculation of the heart rate after visualizing peaks spotted
 * Provided detection of two specific diseases (Bigeminy and Premature Ventricular Contraction)
@@ -21,7 +21,6 @@ run('load_ECG.m')
 ```
 
 # Demonstration
-
 [Google drive link](https://drive.google.com/file/d/1IvmRAaoeakp049FaFzhiG2eAk1P-ETtJ/view?usp=share_link)
 
 

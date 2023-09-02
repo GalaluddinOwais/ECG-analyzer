@@ -11,7 +11,7 @@
 #### Any `MATLAB` version should work!
 
 # Execution
-# locate `load_ECG.m` and `load_ECG.fig` and run the following commands:
+#### locate `load_ECG.m` and `load_ECG.fig` and run the following commands:
 ```
 #execute MATLAB
 matlab
@@ -20,7 +20,7 @@ matlab
 run('load_ECG.m')
 ```
 
-#Demonstration
+# Demonstration
 
 [Google drive link](https://drive.google.com/file/d/1IvmRAaoeakp049FaFzhiG2eAk1P-ETtJ/view?usp=share_link)
 

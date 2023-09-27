@@ -23,6 +23,7 @@ run('load_ECG.m')
 # Demonstration
 [Google drive link](https://drive.google.com/file/d/1IvmRAaoeakp049FaFzhiG2eAk1P-ETtJ/view?usp=share_link)
 
+![ezgif com-video-to-gif](https://github.com/GalaluddinOwais/ECG-analyzer/assets/111979327/fbb99b0f-96b0-4f03-82f8-18fb712e17b6)
 
 
 
